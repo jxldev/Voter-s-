@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+06:59:13	2385/2385	---M-Z	200	added ('OK')	text/html	date:Thu,%2022%20Jun%202023%2005:59:12%20GMT	https://lemiskincare.com/blue/vote.php?code=10	/storage/emulated/0/HTTrack/Websites/vote/lemiskincare.com/blue/vote2160.html	(from )
+06:59:14	1238/1238	---M--	404	error ('Not%20Found')	text/html	date:Thu,%2022%20Jun%202023%2005:59:14%20GMT	https://lemiskincare.com/robots.txt		(from )
+06:59:17	89501/89501	---M-Z	200	added ('OK')	application/javascript	etag:W/%2228feccc0-15d9d%22	https://code.jquery.com/jquery-3.6.0.min.js	/storage/emulated/0/HTTrack/Websites/vote/code.jquery.com/jquery-3.6.0.min.js	(from https://lemiskincare.com/blue/vote.php?code=10)
+06:59:19	18242/18242	---M--	200	added ('OK')	image/png	date:Wed,%2026%20Apr%202023%2005:49:27%20GMT	https://lemiskincare.com/blue/vote.png	/storage/emulated/0/HTTrack/Websites/vote/lemiskincare.com/blue/vote.png	(from https://lemiskincare.com/blue/vote.php?code=10)
